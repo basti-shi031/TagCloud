@@ -2,8 +2,10 @@
 <resources>
 
     <declare-styleable name="TagCloudView">
-
         
+        <attr name="horizontal_divider" format="dimension"/>
+        <attr name="vertical_divider" format="dimension"/>
+
 
     </declare-styleable>
 
